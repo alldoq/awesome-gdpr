@@ -26,6 +26,8 @@
     * [GDPR Form](https://gdprform.io) - Commercial Product - Manage and fulfill requests for data access, portability, and erasure. Easy-to-configure web form for your customers & website visitors.
     * [Osano](https://www.osano.com) - Commercial Product - An easy solution to data privacy laws.
     * [OneTrust](https://www.onetrust.com/) - Commercial Product - Technology to Power Your Privacy, Security and Third-Party Risk Programs 
+  * Document Redaction
+    * [DesktopRedact](https://desktopredact.com) - Local-first desktop app that automatically detects PII (names, emails, phone numbers, addresses) in PDF and Word documents and burns redactions permanently into the exported PDF. Runs 100% offline — no cloud upload, no account, no telemetry.
 
 ## What is GDPR ?
 
