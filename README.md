@@ -28,6 +28,8 @@
     * [OneTrust](https://www.onetrust.com/) - Commercial Product - Technology to Power Your Privacy, Security and Third-Party Risk Programs 
   * Document Redaction
     * [DesktopRedact](https://desktopredact.com) - Local-first desktop app that automatically detects PII (names, emails, phone numbers, addresses) in PDF and Word documents and burns redactions permanently into the exported PDF. Runs 100% offline — no cloud upload, no account, no telemetry.
+  * Secure Document Sharing
+    * [Beamprobe](https://beamprobe.com) - UK virtual data room for fundraising and M&A. AES-256 envelope encryption at rest, EU-jurisdiction storage, NDA gate with signed-PDF audit trail (SHA-256 tamper digest, 6-year retention), GDPR Article 15/17 self-serve export and deletion. From £19/month flat.
 
 ## What is GDPR ?
 
